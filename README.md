@@ -7,7 +7,7 @@
 
 
 
-| <a href="https://github.com/axingod"><img align="center" src="https://github-readme-stats.vercel.app/api?username=axingod&show_icons=true&hide=contribs&theme=ambient_gradient&hide_border=true" alt="axingod's github stats" /></a> | <a href="https://github.com/axingod"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axingod&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
+| <a href="https://github.com/axingod1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=axingod&show_icons=true&hide=contribs&theme=ambient_gradient&hide_border=true" alt="axingod1's github stats" /></a> | <a href="https://github.com/axingod1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axingod1&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### 常用热门库
